@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-challange-nomad/static/css/main.e6c13ad2.css",
+    "main.js": "/movie-challange-nomad/static/js/main.ec3b3025.js",
+    "static/js/453.d0c9a05d.chunk.js": "/movie-challange-nomad/static/js/453.d0c9a05d.chunk.js",
+    "index.html": "/movie-challange-nomad/index.html",
+    "main.e6c13ad2.css.map": "/movie-challange-nomad/static/css/main.e6c13ad2.css.map",
+    "main.ec3b3025.js.map": "/movie-challange-nomad/static/js/main.ec3b3025.js.map",
+    "453.d0c9a05d.chunk.js.map": "/movie-challange-nomad/static/js/453.d0c9a05d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ec3b3025.js"
+  ]
+}
